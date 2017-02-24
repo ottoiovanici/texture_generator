@@ -1,8 +1,9 @@
 # Texture Generator
 Create beautiful textures with this small **Texture Generator**. Powered by AngularJS and FabricJS, the software generates unique textures by spreading multiple overlapping objects on a canvas. Each object is randomly generated and differs in size and shape from the other.
 
-Source: https://github.com/ottoiovanici/texture_generator
-Demo: http://plnkr.co/edit/WqwreDjSZhb2XyAa0DsI?p=preview
+Source: https://github.com/ottoiovanici/texture_generator  
+Demo: http://plnkr.co/edit/WqwreDjSZhb2XyAa0DsI?p=preview  
+Blog Article: http://iovanici.com/beautifully-colored-textures-with-texture-generator/ 
 
 ## Description:
 Texture generator is a fast and easy tool to create random and beautiful textures. I used it in a personal project [KidStory](http://kidstory.iovanici.com), where I had to replace the colors with something that will beautify the drawings made by children on their tablets and be unique every time.
